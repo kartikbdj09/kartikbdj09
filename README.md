@@ -98,122 +98,23 @@ mindset: Always curious
 </td>
 </tr>
 </table>
-
----
-
-
-<!-- =============== THE ADVENTURE LOG =============== -->
-
 <div align="center">
 
-<h2>✦ THE ADVENTURE LOG ✦</h2>
-<sub>A developer's journey — one idea, one experiment, one project at a time.</sub>
+  <sub>✦ ───────── 🌙 ───────── ✦</sub>
 
-<br/><br/>
+  <br/><br/>
 
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-<h3>🌙 01</h3>
-<b>LEARN</b>
-<br/>
-<sub>Explore new concepts</sub>
-</td>
-<td align="center" width="33%">
-<h3>⚡ 02</h3>
-<b>EXPERIMENT</b>
-<br/>
-<sub>Try something different</sub>
-</td>
-<td align="center" width="33%">
-<h3>🔥 03</h3>
-<b>BUILD</b>
-<br/>
-<sub>Turn ideas into reality</sub>
-</td>
-</tr>
-</table>
+  <h3>まだまだこれから。</h3>
+  <sub>Still learning. Still building. Still becoming.</sub>
 
-<br/>
+  <br/><br/>
 
-<h3>✦ CURRENT DEVELOPER ARC ✦</h3>
-
-<img src="https://img.shields.io/badge/Python-Currently%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software-Development-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<br/><br/>
-
-<h3>✦ THE PHILOSOPHY ✦</h3>
-
-<pre>
-    Stay curious.
-    Embrace the unknown.
-    Create something meaningful.
-    Repeat.
-</pre>
-
-<br/>
-
-<sub>✧ THE STORY IS STILL BEING WRITTEN ✧</sub>
-
-<br/><br/>
-
-<code>LEVEL UP · KEEP BUILDING · NEVER STOP EXPLORING</code>
+  <sub>Thanks for visiting my little corner of the internet ✦</sub>
 
 </div>
 
-<!-- =============== END ADVENTURE LOG =============== -->
 
 
----
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 
-<h3>✦ BEYOND THE SCREEN</h3>
 
-- 🌏 Interested in exploring different cultures.
-- 🧠 Fascinated by how technology works.
-- 📚 Always learning something new.
-- 🎮 Enjoy exploring digital worlds.
-- 🚀 Love turning ideas into projects.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>✦ MY PERSONAL PHILOSOPHY</h3>
-
-```text
-Stay curious.
-Explore the unknown.
-Build your own path.
-Enjoy the journey.
-```
-
-<br/>
-<sub>THE BEST STORIES ARE STILL BEING WRITTEN.</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<h2>✦ LET'S CONNECT</h2>
-
-<a href="https://github.com/kartikbdj09">
-<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-<sub>✦ THANKS FOR VISITING MY LITTLE CORNER OF THE INTERNET ✦</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090B16,35:172B52,70:44366D,100:090B16&height=110&section=footer"/>
-
-</div>
