@@ -1,99 +1,86 @@
 <!-- ═══════════════════════════════════════════════ -->
-<!--                  HEADER                       -->
+<!--                 ANIME HEADER                  -->
 <!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:123C50,100:0D1117&text=KARTIK&fontColor=58A6FF&fontSize=55&fontAlignY=38&desc=CODE%20%C2%B7%20CURIOSITY%20%C2%B7%20CREATION&descAlignY=60&descSize=14&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090B16,30:172B52,65:44366D,100:090B16&text=KARTIK&fontColor=E6F0FF&fontSize=58&fontAlignY=38&desc=CODE%20%20%E2%9C%A6%20%20CURIOSITY%20%20%E2%9C%A6%20%20CREATION&descAlignY=62&descSize=14&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Kartik.;Exploring+software+%26+artificial+intelligence.;Learning%2C+experimenting+%26+building.;Always+curious.+Always+creating." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Kartik+%F0%9F%91%8B;Welcome+to+my+little+corner+of+the+internet.;Exploring+software%2C+AI+%26+technology.;Currently+writing+my+own+developer+arc..." />
 
-</div>
+<br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  PIXEL TRAIL                   -->
-<!-- ═══════════════════════════════════════════════ -->
+<sub>✦ ──────── 🌙 ──────── ✦</sub>
 
-<div align="center">
+<br/><br/>
 
-`✦ ──── 🌑 ──── 👾 ──── · ──── 👾 ──── · ──── ✦`
+`🌸` &nbsp; `｡･:*:･ﾟ★` &nbsp; `👾` &nbsp; `｡･:*:･ﾟ★` &nbsp; `🌸`
 
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 MAIN DASHBOARD                 -->
-<!-- ═══════════════════════════════════════════════ -->
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3>◈ ABOUT ME</h3>
+<h3>✦ THE WORKSPACE</h3>
 
-Hey! I'm Kartik, a Computer Science student from India.
-
-Somewhere between code, curiosity and creation.
-
-I enjoy exploring how technology works, experimenting with new ideas and turning what I learn into real-world projects.
-
+<div align="center">
+<img src="https://github.com/kartikbdj09.png" width="150" alt="Kartik's profile"/>
 <br/>
+<sub>PLAYER 01 · KARTIK</sub>
+</div>
 
 <h3>◈ QUICK PROFILE</h3>
 
 | | |
 |:--|:--|
-| 📍 | Meerut, Delhi NCR, India |
 | 🎓 | Computer Science |
 | 💻 | Software Development |
 | 🤖 | Artificial Intelligence |
 | 🌏 | Exploring global tech |
 
-<br/>
+<h3>◈ THE CURRENT ARC</h3>
 
-<h3>◈ CURRENTLY EXPLORING</h3>
+- Learning Python & programming fundamentals
+- Exploring software development
+- Understanding AI & Machine Learning
+- Exploring AWS & Cloud Computing
+- Strengthening Computer Science foundations
 
-- Python & Programming Fundamentals
-- Software Development
-- Artificial Intelligence & ML
-- AWS & Cloud Computing
-- Computer Science Foundations
+<div align="center">
+<sub>✧ EVERY EXPERT WAS ONCE A BEGINNER ✧</sub>
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
+<h3>✦ HEY, I'M KARTIK! 👋</h3>
+
+Somewhere between code, curiosity & creation.
+
+I'm a Computer Science student exploring the world of software, artificial intelligence and everything in between.
+
+I enjoy experimenting with ideas, understanding how things work and turning curiosity into real-world projects.
+
 <h3>◈ MY TECH UNIVERSE</h3>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,vscode,github,aws&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,vscode,github,git,aws&theme=dark"/>
 <br/><br/>
-
 <sub>TECHNOLOGIES I'M EXPLORING</sub>
-
 </div>
 
-<br/>
+<h3>◈ THE DEVELOPER MINDSET</h3>
 
-<h3>◈ THE WORKFLOW</h3>
-
-```text
-  IDEA
-   |
-   v
- EXPLORE
-   |
-   v
- EXPERIMENT
-   |
-   v
-  BUILD
-   |
-   v
- CREATE
+```python
+while True:
+    learn()
+    experiment()
+    build()
+    improve()
 ```
 
 <h3>◈ CURRENT STATUS</h3>
@@ -102,9 +89,9 @@ I enjoy exploring how technology works, experimenting with new ideas and turning
 status: Learning & Building
 primary_language: Python
 interests:
-  - Software
-  - AI
-  - Cloud
+  - Software Development
+  - Artificial Intelligence
+  - Cloud Computing
 mindset: Always curious
 ```
 
@@ -114,56 +101,51 @@ mindset: Always curious
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  STATISTICS                    -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<h2 align="center">◈ THE ACTIVITY LOG</h2>
-
-<p align="center">
-<sub>A little progress, one commit at a time.</sub>
-</p>
-
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbdj09&bg_color=0d1117&color=58a6ff&line=2ea043&point=bc8cff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<h2>✦ THE ADVENTURE LOG</h2>
+<sub>Every contribution is another step in the journey.</sub>
 
-<br/>
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kartikbdj09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2EA043" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbdj09&bg_color=0d1117&color=c4b5fd&line=58a6ff&point=f0abfc&area=true&hide_border=true&custom_title=My%20GitHub%20Journey"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbdj09&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kartikbdj09&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=58A6FF&text_color=C9D1D9&hide_rank=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbdj09&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  BEYOND CODE                   -->
-<!-- ═══════════════════════════════════════════════ -->
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3>◈ BEYOND THE SCREEN</h3>
+<h3>✦ BEYOND THE SCREEN</h3>
 
-- 🌏 Interested in different cultures and technology.
-- 🧠 Fascinated by how things work.
+- 🌏 Interested in exploring different cultures.
+- 🧠 Fascinated by how technology works.
 - 📚 Always learning something new.
+- 🎮 Enjoy exploring digital worlds.
 - 🚀 Love turning ideas into projects.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>◈ MY PHILOSOPHY</h3>
+<h3>✦ MY PERSONAL PHILOSOPHY</h3>
 
 ```text
 Stay curious.
-Think deeply.
-Build patiently.
-Keep exploring.
+Explore the unknown.
+Build your own path.
+Enjoy the journey.
 ```
+
+<br/>
+<sub>THE BEST STORIES ARE STILL BEING WRITTEN.</sub>
 
 </td>
 </tr>
@@ -171,32 +153,19 @@ Keep exploring.
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                   CONNECT                      -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<h3 align="center">◈ FIND ME AROUND THE INTERNET</h3>
-
 <div align="center">
+
+<h2>✦ LET'S CONNECT</h2>
 
 <a href="https://github.com/kartikbdj09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn URL here when ready -->
+<br/><br/>
+<sub>✦ THANKS FOR VISITING MY LITTLE CORNER OF THE INTERNET ✦</sub>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123C50,100:0D1117&height=100&section=footer"/>
-
-<sub>THINK · EXPLORE · BUILD · REPEAT</sub>
-
-<br/>
-
-<sub>Thanks for stopping by. More interesting things are on the way. ✦</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090B16,35:172B52,70:44366D,100:090B16&height=110&section=footer"/>
 
 </div>
