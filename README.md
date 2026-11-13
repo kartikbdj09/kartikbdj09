@@ -27,7 +27,7 @@
 <h3>✦ THE WORKSPACE</h3>
 
 <div align="center">
-<img src="https://github.com/kartikbdj09.png" width="150" alt="Kartik's profile"/>
+<img src="./download%20(1).jpg" width="200" alt="Spider-Man pixel art"/>
 <br/>
 <sub>PLAYER 01 · KARTIK</sub>
 </div>
