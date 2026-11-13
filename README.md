@@ -101,22 +101,70 @@ mindset: Always curious
 
 ---
 
+
+<!-- =============== THE ADVENTURE LOG =============== -->
+
 <div align="center">
 
-<h2>✦ THE ADVENTURE LOG</h2>
-<sub>Every contribution is another step in the journey.</sub>
+<h2>✦ THE ADVENTURE LOG ✦</h2>
+<sub>A developer's journey — one idea, one experiment, one project at a time.</sub>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbdj09&bg_color=0d1117&color=c4b5fd&line=58a6ff&point=f0abfc&area=true&hide_border=true&custom_title=My%20GitHub%20Journey"/>
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<h3>🌙 01</h3>
+<b>LEARN</b>
+<br/>
+<sub>Explore new concepts</sub>
+</td>
+<td align="center" width="33%">
+<h3>⚡ 02</h3>
+<b>EXPERIMENT</b>
+<br/>
+<sub>Try something different</sub>
+</td>
+<td align="center" width="33%">
+<h3>🔥 03</h3>
+<b>BUILD</b>
+<br/>
+<sub>Turn ideas into reality</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3>✦ CURRENT DEVELOPER ARC ✦</h3>
+
+<img src="https://img.shields.io/badge/Python-Currently%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software-Development-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kartikbdj09&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=58A6FF&text_color=C9D1D9&hide_rank=true"/>
+<h3>✦ THE PHILOSOPHY ✦</h3>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbdj09&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9"/>
+<pre>
+    Stay curious.
+    Embrace the unknown.
+    Create something meaningful.
+    Repeat.
+</pre>
+
+<br/>
+
+<sub>✧ THE STORY IS STILL BEING WRITTEN ✧</sub>
+
+<br/><br/>
+
+<code>LEVEL UP · KEEP BUILDING · NEVER STOP EXPLORING</code>
 
 </div>
+
+<!-- =============== END ADVENTURE LOG =============== -->
+
 
 ---
 
